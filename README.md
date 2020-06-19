@@ -1,9 +1,9 @@
-## MSP430 RFM PCB compatible with Adafruit Feather
+# MSP430 RFM PCB compatible with Adafruit Feather
 
 This is a take on the Adafruit feather but with a TI MSP430 as the microcontroller. 
 
 
-# Adafruit Feather M0 RFM LoRa PCB
+### Adafruit Feather M0 RFM LoRa PCB
 
 Click to purchase from the Adafruit Shop:
 - [Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178)
