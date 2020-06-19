@@ -1,5 +1,7 @@
 ## MSP430 RFM PCB compatible with Adafruit Feather
 
+This is a take on the Adafruit feather but with a TI MSP430 as the microcontroller. 
+
 
 # Adafruit Feather M0 RFM LoRa PCB
 
