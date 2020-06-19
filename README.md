@@ -1,5 +1,8 @@
-## Adafruit Feather M0 RFM LoRa PCB
-<a href="http://www.adafruit.com/products/3178"><img src="assets/3178.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/3179"><img src="assets/3179.jpg?raw=true" width="400px"></a><br />
+## MSP430 RFM PCB compatible with Adafruit Feather
+
+
+# Adafruit Feather M0 RFM LoRa PCB
+
 Click to purchase from the Adafruit Shop:
 - [Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178)
 - [Adafruit Feather M0 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3179)
